@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Las Vegas
 tags: meetings-tag conferences-tag leadership-tag
 level: 0
-region: United States
+region: North America
 ---
 
 ### Welcome
