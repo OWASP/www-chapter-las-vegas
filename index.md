@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Las Vegas
 tags: meetings-tag conferences-tag leadership-tag
 level: 0
-region: North Americ
+region: North America
 meetup-group: OWASP-Las-Vegas-Chapter
 country: USA
 postal-code: 89101
