@@ -1,0 +1,24 @@
+leaders:
+  - name: Carmi Moser
+    email: carmi.moser@owasp.org
+  - name: Shane Mitchell
+    email: shane.mitchell@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Nevada
+  city: Clark County
+  postal_code: '89101'
+  latitude: 36.2930452
+  longitude: -115.32640840751802
+meetup_group: OWASP-Las-Vegas-Chapter
+name: OWASP Las Vegas
+repositories:
+  - name: www-chapter-las-vegas
+    url: https://github.com/OWASP/www-chapter-las-vegas
+    description: OWASP Foundation Web Repository
+tags:
+  - meetings-tag
+  - conferences-tag
+  - leadership-tag
+website: https://owasp.org/www-chapter-las-vegas
