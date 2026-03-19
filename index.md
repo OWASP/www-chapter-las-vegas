@@ -11,9 +11,10 @@ postal-code: 89101
 
 ---
 
-### Welcome
+### Welcome to the Las Vegas chapter of OWASP!!
 
-Welcome to the OWASP Las Vegas chapter! We're excited to have a dedicated group of application security professionals and enthusiasts, and we'd love to have you join us. All meetings are free, oriented towards knowledge sharing, practical learning, and having lots of fun!
+We're excited to have a dedicated group of application security professionals and enthusiasts, and we'd love to have you join us. 
+All meetings are free, oriented towards knowledge sharing, practical learning, and having lots of fun!
 
 Join our [Meetup Group](https://www.meetup.com/OWASP-Las-Vegas-Chapter/). All OWASP Las Vegas events are announced and tracked there.
 
@@ -41,6 +42,15 @@ Join our [Meetup Group](https://www.meetup.com/OWASP-Las-Vegas-Chapter/). All OW
   });
 </script>
 <br>
+
+If there are no upcoming events for our chapter that work for your schedule, another great resource for similar events CTFs, and much more, is InfoSecMap
+
+<img src="/assets/images/InfoSecMap-logo.png" /> 
+
+https://infosecmap.com/
+
+
+
 
 ### Participation
 
