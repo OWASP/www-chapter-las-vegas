@@ -44,7 +44,7 @@ Join our [Meetup Group](https://www.meetup.com/OWASP-Las-Vegas-Chapter/). All OW
 <br>
 
 If there are no upcoming events for our chapter that work for your schedule, another great resource for similar events CTFs, and much more, is InfoSecMap
-<img src="/images/InfoSecMap-logo.png" /> 
+<img src="/assets/images/InfoSecMap-logo.png" /> 
 https://infosecmap.com/
 
 ### Participation
